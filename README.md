@@ -92,7 +92,8 @@ TRUSTFACE-X/
 Clone the repository
 
 ```bash
-git clone https://github.com/abhireddy4170/TRUSTFACE-X.git
+git clone https://github.com/abhireddy4170/TRUSTFACE--X-DEEPFAKE_FACE_DETECTION_ABHISHEK_REDDY0313
+.git
 ```
 
 Navigate to the project folder
