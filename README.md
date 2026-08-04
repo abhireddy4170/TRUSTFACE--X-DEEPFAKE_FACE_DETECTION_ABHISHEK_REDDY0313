@@ -92,7 +92,7 @@ TRUSTFACE-X/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/TRUSTFACE-X.git
+git clone https://github.com/abhireddy4170/TRUSTFACE-X.git
 ```
 
 Navigate to the project folder
